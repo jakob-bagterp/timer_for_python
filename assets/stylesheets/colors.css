@@ -1,0 +1,11 @@
+:root {
+    /* Color palette from https://github.com/richleland/pygments-css/blob/master/monokai.css */
+
+    --green: rgb(80, 154, 6);
+}
+
+/* Foreground Colors */
+
+.fg-green {
+    color: var(--green);
+}
